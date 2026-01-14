@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+__pycache__/
+
+# Data and Models
+data/
+models/*.pth
+models/*.h5
+*.ipynb_checkpoints
+
+# Logs
+runs/
+logs/
